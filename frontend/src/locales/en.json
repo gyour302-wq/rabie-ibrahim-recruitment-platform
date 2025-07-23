@@ -1,0 +1,96 @@
+{
+  "splash": {
+    "companyName": "Rabie Ibrahim Company for Egyptian Manpower Recruitment Abroad",
+    "licenseText": "License No. 497 - Talent Recruitment and Visa Processing",
+    "skip": "Skip"
+  },
+  "navigation": {
+    "jobs": "Jobs",
+    "candidates": "Candidates",
+    "visaServices": "Visa Services",
+    "aboutUs": "About Us",
+    "contact": "Contact"
+  },
+  "jobs": {
+    "title": "Job Listings",
+    "subtitle": "Find your dream job with top Saudi employers",
+    "applyNow": "Apply Now",
+    "location": "Location",
+    "requirements": "Requirements",
+    "description": "Description",
+    "noJobs": "No jobs available at the moment",
+    "posted": "Posted"
+  },
+  "jobApplication": {
+    "title": "Apply for Position",
+    "fullName": "Full Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email Address",
+    "uploadCV": "Upload CV (PDF/DOC)",
+    "uploadVideo": "Upload Video Intro (Optional)",
+    "submit": "Submit Application",
+    "success": "Application submitted successfully!",
+    "error": "Please fill in all required fields"
+  },
+  "candidates": {
+    "title": "Candidate Profiles",
+    "viewCV": "View CV",
+    "contactCandidate": "Contact Candidate",
+    "experience": "Experience",
+    "skills": "Skills",
+    "age": "Age",
+    "noCandidates": "No candidates available"
+  },
+  "visaServices": {
+    "title": "Visa Services",
+    "description": "We provide comprehensive visa services including:",
+    "service1": "Saudi embassy visa processing",
+    "service2": "Document authentication",
+    "service3": "Appointment scheduling",
+    "requestService": "Request Service",
+    "name": "Full Name",
+    "passportNumber": "Passport Number",
+    "serviceType": "Service Type",
+    "phone": "Phone Number",
+    "notes": "Additional Notes",
+    "submit": "Submit Request"
+  },
+  "about": {
+    "title": "About Us",
+    "companyName": "Rabie Ibrahim Company for Manpower Recruitment",
+    "license": "License No. 497 – Egypt",
+    "location": "Based in Dokki, Giza",
+    "experience": "20+ years experience",
+    "partnerships": "Partners with Saudi employers and embassies",
+    "website": "Official Website"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "Al-Musiqa Ali Ismail Street, Dokki - Giza - Egypt",
+    "phones": "Phones: 01000268821 / 01050173771",
+    "emails": "Emails: taha.hr497@gmail.com / r.i.recruitment46@gmail.com",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "whatsapp": "WhatsApp",
+    "social": "Social Media"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done",
+    "language": "Language",
+    "arabic": "العربية",
+    "english": "English",
+    "posted": "Posted",
+    "success": "Success"
+  }
+}
